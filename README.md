@@ -1,5 +1,5 @@
 # José Maximiliano Boada Martín
-Lorem ipsum
+Lorum ipsem
 
 <!--
 **mackstm/mackstm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

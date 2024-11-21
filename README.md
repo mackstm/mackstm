@@ -1,6 +1,10 @@
 # José Maximiliano Boada Martín
 Lorum ipsem
 
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=mackstm&show_icons=true&locale=en&layout=compact" alt="mackstm" />
+</div>
+
 <!--
 **mackstm/mackstm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
